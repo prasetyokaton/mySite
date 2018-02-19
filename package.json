@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "This is beta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasetyokaton/mySite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasetyokaton/mySite/issues"
+  },
+  "homepage": "https://github.com/prasetyokaton/mySite#readme"
+}
